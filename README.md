@@ -27,5 +27,5 @@ COMP2113 Group Project
 NA
 
 # Compilation and execution instructions:
-In the directory of this project, type "make main" to compile. Then type "./main" to execute. Then, you will enter the game and just follow the instructions in the game to play it.
+Download all the files we submitted to the Github and store them in a directory. In the directory of this project, type "make main" to compile. Then type "./main" to execute. Then, you will enter the game and just follow the instructions in the game to play it.
 
