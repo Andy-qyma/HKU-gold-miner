@@ -15,9 +15,9 @@ COMP2113 Group Project
 
 # Coding Elements:
 * Generation of random game sets or events: In initialiazation.cpp, we use rand function to generate the bomb and gold.
-* Data structures for storing game status: In initialization.cpp and main.cpp, we use arrays to store the status of the table, golds, bombs and the chosen units.
+* Data structures for storing game status: In the main.cpp, we store the scores of each round in file SCORE.txt.
 * Dynamic memory management: In main.cpp, we use dynamic memory to calculate the total number of the golds and bombs.
 * File input/output: In main.cpp, we use fin and fout to store the best scores in file SCORE.txt.
-* Program codes in multiple files:
+* Program codes in multiple files: 
 * Proper indentation and naming styles:
 * In-code documentation: 
