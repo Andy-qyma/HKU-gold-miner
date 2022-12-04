@@ -21,3 +21,7 @@ COMP2113 Group Project
 * Program codes in multiple files: Our codes are in initialization.cpp, instruction.cpp, routine.cpp and main.cpp.
 * Proper indentation and naming styles: The variables are named according to their usage. The indentation is readable.
 * In-code documentation: We have comments for structs defination and functions.
+
+#Compilation and execution instructions:
+In the directory of this project, type "make main" to compile. Then type "./main" to execute. Then, you will enter the game and just follow the instructions in the game to play it.
+
