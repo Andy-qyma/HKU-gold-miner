@@ -5,7 +5,7 @@ COMP2113 Group Project
 * Guo Xiaole 
 * Jian Tianyi 3035637668
 * Kong Xinman
-* Ma Qiyao
+* Ma Qiyao 3035771153
 * Wang Yimeng 3035845485
 
 # Game Rule Description
